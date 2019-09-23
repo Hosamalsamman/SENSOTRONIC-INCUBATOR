@@ -1,1 +1,2 @@
 # SENSOTRONIC-INCUBATOR
+.    It’s an isolated room for babies which has sensors to sense the level of temperature and humidity continuously and display it on 7-segment displays; the system compares the measured values with default values which are also displayed on other 7-segment displays so that the user can change it by pressing push buttons. When the measured values exceed the default values by a fixed percent, the system turns on a fan, buzzer or heater depending on the state.
